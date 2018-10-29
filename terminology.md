@@ -31,3 +31,4 @@ Customer who want to buy som ship services
 **Consulting** - contract on consulting services 
 **Valuation** - contract on valuation services 
 **Others** - other types of fixtures 
+**Noe nytt** - other types of fixtures 
