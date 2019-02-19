@@ -2,4 +2,8 @@
 How to change to unified interface
 <br/>
 ![Unified interface](./img/unifiedinterface.jpg)
+<br/>
+Tab use example in the new interfaces
+<br/>
+![Unified interface](./img/unifiedinterfaceblue.jpg)
 
